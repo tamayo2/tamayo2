@@ -11,12 +11,6 @@
     <a href="mailto:sebastiantamacuadrado2005@gmail.com">
         <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
     </a>
-    <a href="https://www.linkedin.com/in/daniel-atehortua-486123163/">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-    </a>
-    <a href="https://steamcommunity.com/id/skarrrtv/">
-        <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" />
-    </a>
 </div>
 
 ---
@@ -32,7 +26,7 @@
 <div align="center">
     <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=javascript,typescript,mysql,express,angular,nodejs,react,git&theme=dark" />
-        <img src="https://skillicons.dev/icons?i=html,css,figma,ai,github,vscode,cpp,powershell,bash&theme=dark" />
+        <img src="https://skillicons.dev/icons?i=html,css,java,figma,ai,github,vscode,cpp,powershell,bash&theme=dark" />
     </a>
 </div>
 
