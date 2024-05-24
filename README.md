@@ -1,7 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=tamayo2.tamayo2" alt="visitorsBadge"/>
 <br>
 <div id="header" align="center">
-    <img src="https://media.giphy.com/media/gg2XyoRqPpPbmtoGVo/giphy.gif" width="400" height="300" />
+    <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="400" height="300" />
     <br>
     <img src="https://readme-typing-svg.herokuapp.com/?font=righteous&color=000000FF&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi!+👋,+I'm+Sebastian;" />
     <h3 align="center">A Web and software developer. I am a self-taught person, passionate and focused on constantly learning about technology, personal
@@ -13,7 +13,10 @@
     </a>
 </div>
 
----
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" />
+</div>
+
 ### 🎴 About Me: 
 🍷 I'm currently working on **my portfolio**
 <br>
@@ -21,7 +24,10 @@
 <br>
 ❄️ Ask me about **JavaScript, React, TypeScript, Angular**
 
----
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" />
+</div>
+
 <h2 align="center">🀄️ Languages | Frameworks & DB's | Desing Tools 🀄️</h2>
 <div align="center">
     <a href="https://skillicons.dev">
@@ -30,16 +36,24 @@
     </a>
 </div>
 
----
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" />
+</div>
 
 <h2 align="center"> 🔝 Stats 🔝</h2>
    <div align="center">
     <img width="390" src="https://streak-stats.demolab.com/?user=tamayo2&theme=violet-dark&count_private=true%border_radius=10" alt="streak stats" />
     <img width="375" src="https://github-readme-stats.vercel.app/api?username=tamayo2&count_private=true&theme=neon&show_icons=true&border_radius=10" alt="readme stats" />
-    <img width="325" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tamayo2&layout=compact&theme=neon" alt="top langs" />
+    <img width="325" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tamayo2&layout=compact&theme=neon" alt="top langs" /><br><br>
+    <img width="390" src="https://user-images.githubusercontent.com/74038190/212898774-0a96dc1d-c908-4ce8-9dd7-a71aab6e1c2b.gif" width="200" height="200">
    </div>
 
----
- ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=tamayo02&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" />
+</div>
 
+<div align="center""> 
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=tamayo02&limit=5&theme=dark&combine_all_yearly_contributions=true)
+</div>
