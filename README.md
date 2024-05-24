@@ -25,8 +25,8 @@
 <h2 align="center">🀄️ Languages | Frameworks & DB's | Desing Tools 🀄️</h2>
 <div align="center">
     <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=javascript,typescript,mysql,express,angular,nodejs,react,git&theme=dark" />
-        <img src="https://skillicons.dev/icons?i=html,css,java,figma,ai,github,vscode,cpp,powershell,bash&theme=dark" />
+        <img src="https://skillicons.dev/icons?i=javascript,typescript,mysql,express,angular,nodejs,react,git,jquery,linux,php&theme=dark" />
+        <img src="https://skillicons.dev/icons?i=html,css,java,github,vscode,bootstrap,c,cpp,dotnet,azure,powershell,bash,wordpress&theme=dark" />
     </a>
 </div>
 
