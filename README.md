@@ -45,11 +45,10 @@
     <img width="390" src="https://streak-stats.demolab.com/?user=tamayo2&theme=violet-dark&count_private=true%border_radius=10" alt="streak stats" />
     <img width="375" src="https://github-readme-stats.vercel.app/api?username=tamayo2&count_private=true&theme=neon&show_icons=true&border_radius=10" alt="readme stats" />
     <img width="325" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tamayo2&layout=compact&theme=neon" alt="top langs" /><br><br>
-    <img width="390" src="https://user-images.githubusercontent.com/74038190/212898774-0a96dc1d-c908-4ce8-9dd7-a71aab6e1c2b.gif" width="200" height="200">
    </div>
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" />
+<img src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif" width="200" height="200"/>
 </div>
 
 <div align="center""> 
