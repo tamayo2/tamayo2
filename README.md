@@ -40,9 +40,6 @@
    </div>
 
 ---
-<div align="center">
-    <h2> 🗾 My Contributions 🍃 </h2>
-    <br>
-    <img src="https://github.com/tamayo2/tamayo2/blob/output/github-contribution-grid-snake.svg" alt="snake contributions" />
-    <br><br><br>
-</div>
+ ### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=tamayo02&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
