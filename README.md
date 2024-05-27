@@ -5,7 +5,7 @@
     <br>
     <img src="https://readme-typing-svg.herokuapp.com/?font=righteous&color=ffffff&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi!+👋,+I'm+Sebastian;" />
     <h3 align="center">A Web and software developer. I am a self-taught person, passionate and focused on constantly learning about technology, personal
-        development and productive work from Colombia</h3>
+        development and productive work from Colombia, I am a guy who is passionate about code, I am willing to learn and complement my career as a FullStacks developer.</h3>
 </div>
 <div align="center"">
     <a href="mailto:sebastiantamacuadrado2005@gmail.com">
