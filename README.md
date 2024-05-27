@@ -20,7 +20,7 @@
 ### 🎴 About Me: 
 🍷 I'm currently working on **My portfolio**
 <br>
-🌱 I'm currently learning **PostgreSQL, React, Java and NextJS, **
+🌱 I'm currently learning **PostgreSQL, React, Java and NextJS**
 <br>
 ❄️ Ask me about **JavaScript, React, TypeScript, Angular, Html, Css, NodeJS, MySQL, Linux, Express, PHP**
 
