@@ -18,11 +18,11 @@
 </div>
 
 ### 🎴 About Me: 
-🍷 I'm currently working on **my portfolio**
+🍷 I'm currently working on **My portfolio**
 <br>
-🌱 I'm currently learning **Redis, Python w/ Django and Blockchain w/ Rust**
+🌱 I'm currently learning **PostgreSQL, React, Java and NextJS, **
 <br>
-❄️ Ask me about **JavaScript, React, TypeScript, Angular**
+❄️ Ask me about **JavaScript, React, TypeScript, Angular, Html, Css, NodeJS, MySQL, Linux, Express, PHP**
 
 <div align="center">
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" />
