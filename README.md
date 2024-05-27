@@ -3,7 +3,7 @@
 <div id="header" align="center">
     <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="400" height="300" />
     <br>
-    <img src="https://readme-typing-svg.herokuapp.com/?font=righteous&color=000000FF&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi!+👋,+I'm+Sebastian;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=righteous&color=ffffff&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi!+👋,+I'm+Sebastian;" />
     <h3 align="center">A Web and software developer. I am a self-taught person, passionate and focused on constantly learning about technology, personal
         development and productive work from Colombia</h3>
 </div>
