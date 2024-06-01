@@ -53,7 +53,7 @@
 
 <div align="center""> 
 
-<details><summary><h3 align="center">🔝 Top Contributed Repo</h3></summary>
+<details><h3 align="center">🔝 Top Contributed Repo</h3>
 
 <div align="center">
     <img width="500" src="https://github-contributor-stats.vercel.app/api?username=tamayo2&combine_all_yearly_contributions=true&theme=tokyonight" alt="top contributed" />
