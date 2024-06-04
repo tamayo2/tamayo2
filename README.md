@@ -59,5 +59,3 @@
 </div>
 
 </div>
-
-este es mi nuevo git
