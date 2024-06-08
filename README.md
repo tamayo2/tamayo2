@@ -11,7 +11,7 @@
     <a href="mailto:sebastiantamacuadrado2005@gmail.com">
         <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
     </a> <br>
-    <a href="https://tuportafolio.com">
+    <a href="https://portafolio-rho-smoky.vercel.app/">
     <img src="https://img.shields.io/badge/Portafolio-333333?style=for-the-badge&logo=google-chrome&logoColor=white" />
     </a>
 </div>
