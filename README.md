@@ -11,6 +11,7 @@
     <a href="mailto:sebastiantamacuadrado2005@gmail.com">
         <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
     </a> <br>
+    <h3>If you like my work, check out my portfolio for more projects and details!</h3>
     <a href="https://portafolio-rho-smoky.vercel.app/">
     <img src="https://img.shields.io/badge/Portafolio-333333?style=for-the-badge&logo=google-chrome&logoColor=white" />
     </a>
