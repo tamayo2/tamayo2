@@ -9,7 +9,7 @@
 </div>
 <div align="center"">
     <a href="mailto:sebastiantamacuadrado2005@gmail.com">
-        <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+        <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red"/>
     </a> <br>
     <h3>In my portfolio you can see more projects and details about who I am and what I specialize in.</h3>
     <a href="https://portafolio-rho-smoky.vercel.app/">
@@ -18,7 +18,7 @@
 </div>
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" />
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%"/>
 </div>
 
 ### 🎴 About Me: 
@@ -29,7 +29,7 @@
 ❄️ Ask me about **JavaScript, React, TypeScript, Angular, Html, Css, NodeJS, MySQL, Linux, Express, PHP**
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" />
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%"/>
 </div>
 
 <h2 align="center">🀄️ Languages | Frameworks & DB's |</h2>
@@ -41,7 +41,7 @@
 </div>
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" />
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%"/>
 </div>
 
 <h2 align="center"> 🔝 Stats 🔝</h2>
@@ -49,6 +49,7 @@
     <img width="390" src="https://streak-stats.demolab.com/?user=tamayo2&theme=violet-dark&count_private=true%border_radius=10" alt="streak stats" />
     <img width="375" src="https://github-readme-stats.vercel.app/api?username=tamayo2&count_private=true&theme=neon&show_icons=true&border_radius=10" alt="readme stats" />
     <img width="325" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tamayo2&layout=compact&theme=neon" alt="top langs" /><br><br>
+    <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%"/>
    </div>
 
 <div align="center">
