@@ -14,7 +14,6 @@
     <h3>In my portfolio you can see more projects and details about who I am and what I specialize in.</h3>
     <a href="https://portafolio-rho-smoky.vercel.app/">
     <img src="https://img.shields.io/badge/Portafolio-333333?style=for-the-badge&logo=google-chrome&logoColor=white" />
-    <h3> !Don't hesitate to contact me, I will help you with everything you need! </h3>
     </a>
 </div>
 
