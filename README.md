@@ -12,7 +12,7 @@
         <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red"/>
     </a> <br>
     <h3>In my portfolio you can see more projects and details about who I am and what I specialize in.</h3>
-    <a href="https://portafolio-rho-smoky.vercel.app/">
+    <a href="https://tamayo-ten.vercel.app/">
     <img src="https://img.shields.io/badge/Portafolio-333333?style=for-the-badge&logo=google-chrome&logoColor=white" />
     </a>
 </div>
