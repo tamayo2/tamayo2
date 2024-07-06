@@ -28,7 +28,7 @@
 <br>
 ❄️ Ask me about **JavaScript, React, TypeScript, Angular, Vue.js, Redux, NodeJS, MySQL, Linux, Express, PHP**
 <br>
-💻 I specialize in: **C#, .NET, NETCORE, ASPNET, REACTJS, ANGULARJS, PHP, SYMFONY, NODEJS**
+💻 I specialize in: **C#, .NET, NETCORE, ASPNET, REACTJS, ANGULAR, PHP, SYMFONY, NODEJS**
 
 
 <div align="center">
