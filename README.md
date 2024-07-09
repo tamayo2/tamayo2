@@ -51,11 +51,12 @@
 </div>
 
 <h2 align="center"> 🔝 Stats 🔝</h2>
-   <div align="center">
-    <img width="390" src="https://streak-stats.demolab.com/?user=tamayo2&theme=violet-dark&count_private=true%border_radius=10" alt="streak stats" />
-    <img width="375" src="https://github-readme-stats.vercel.app/api?username=tamayo2&count_private=true&theme=neon&show_icons=true&border_radius=10" alt="readme stats" />
-    <img width="325" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tamayo2&layout=compact&theme=neon" alt="top langs" /><br><br>
-   </div>
+<div align="center">
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tamayo2&theme=dark) 
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tamayo2&theme=dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tamayo2&theme=dark)&nbsp;&nbsp;
+</div>
 
 <div align="center">
 <img src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif" width="200" height="200"/>
@@ -65,8 +66,3 @@
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%"/>
 </div>
 
-<br>
-
-<div align="center" width="100%" >
-  <img src="https://myreadme.vercel.app/api/embed/Tamayo2?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
-</div>
