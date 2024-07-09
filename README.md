@@ -58,11 +58,12 @@
 <img src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif" width="200" height="200"/>
 </div>
 
-<div align="center""> 
-<summary><h3 align="center">🔝 Top Contributed Repos</h3></summary>
-
 <div align="center">
-    <img width="500" src="https://github-contributor-stats.vercel.app/api?username=tamayo2&combine_all_yearly_contributions=true&theme=tokyonight" alt="top contributed" />
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%"/>
 </div>
 
+<br>
+
+<div align="center" width="100%" >
+  <img src="https://myreadme.vercel.app/api/embed/tamayo2?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
 </div>
