@@ -58,9 +58,6 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tamayo2&theme=dark)&nbsp;&nbsp;
 </div>
 
-
-holaaaaaaaaaa
-
 <div align="center">
 <img src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif" width="200" height="200"/>
 </div>
