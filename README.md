@@ -27,7 +27,7 @@
 ### 🎴 About Me: 
 🍷 I'm currently working on **My portfolio**
 <br>
-🌱 I'm currently learning **PostgreSQL, Laravel, Java, NestJS, NextJS and Three.JS**
+🌱 I'm currently learning **PostgreSQL, Laravel, Java, NestJS, NextJS, NuxtJS and Three.JS**
 <br>
 ❄️ Ask me about **JavaScript, React, TypeScript, Angular, Vue.js, Redux, NodeJS, MySQL, Linux, Express, PHP**
 <br>
