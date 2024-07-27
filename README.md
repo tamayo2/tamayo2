@@ -27,7 +27,7 @@
 <br>
 🌱 I'm currently learning **PostgreSQL, Laravel, Java, NestJS, NuxtJS and Three.JS**
 <br>
-❄️ Ask me about **JavaScript, React, TypeScript, Angular, Vue.js, Redux, NodeJS, MySQL, Linux, Express, PHP**
+❄️ Ask me about **JavaScript, React, TypeScript, Angular, Vue.js, NodeJS, MySQL, Express**
 <br>
 💻 I specialize in: **C#, NEXTJS, .NET, NETCORE, ASPNET, REACTJS, ANGULAR, PHP, SYMFONY, NODEJS**
 
