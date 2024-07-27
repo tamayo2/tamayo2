@@ -23,11 +23,11 @@
 </div>
 
 ### 🎴 About Me: 
-🍷 I'm currently working on **My portfolio**
+🍷 I'm currently working on **ADA, Chic-In, ZelvaRooftop, infoDesign**
 <br>
 🌱 I'm currently learning **PostgreSQL, Laravel, Java, NestJS, NuxtJS and Three.JS**
 <br>
-❄️ Ask me about **JavaScript, React, TypeScript, Angular, Vue.js, NodeJS, MySQL, Express**
+❄️ Ask me about **JavaScript, TypeScript, Angular, Vue.js, MySQL, Express**
 <br>
 💻 I specialize in: **C#, NEXTJS, .NET, NETCORE, ASPNET, REACTJS, ANGULAR, PHP, SYMFONY, NODEJS**
 
