@@ -23,7 +23,7 @@
 </div>
 
 ### 🎴 About Me: 
-🍷 I'm currently working on **ADA, infoDesign**
+🍷 I'm currently working on **ADA, EntreTramites**
 <br>
 🌱 I'm currently learning **PostgreSQL, Laravel, Java, NestJS, NuxtJS and Three.JS**
 <br>
