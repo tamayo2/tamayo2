@@ -25,7 +25,7 @@
 ### 🎴 About Me: 
 🍷 I'm currently working on **Esinergia**
 <br>
-🌱 I'm currently learning **PostgreSQL, Laravel, Java, NestJS, NuxtJS and Three.JS**
+🌱 I'm currently learning **PostgreSQL, Laravel, Java, NestJS, DRUPAL, NuxtJS and Three.JS**
 <br>
 ❄️ Ask me about **JavaScript, TypeScript, Angular, Vue.js, MySQL, Express**
 <br>
