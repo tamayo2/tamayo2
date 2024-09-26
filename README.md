@@ -25,7 +25,7 @@
 ### 🎴 About Me: 
 🍷 I'm currently working on **Esinergia**
 <br>
-💻 I specialize in: **C#, NEXTJS, .NET, ANGULAR, PHP, SYMFONY, NODEJS, DRUPAL**
+💻 I specialize in: **C#, NEXTJS, .NET, ANGULAR, PHP, SYMFONY, NODEJS, DRUPAL, REACT NATIVE**
 
 
 <div align="center">
