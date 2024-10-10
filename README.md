@@ -7,7 +7,7 @@
     <a href="mailto:sebastiantamacuadrado2005@gmail.com">
         <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red"/>
     </a> <br>
-    <h3>In my portfolio you can see more projects and details about who I am and what I specialize in.</h3>
+    <h3>MY PORTAFOLIO</h3>
     <a href="https://juan-tamayo.vercel.app/">
     <img src="https://img.shields.io/badge/Portafolio-333333?style=for-the-badge&logo=google-chrome&logoColor=white" />
     </a>
