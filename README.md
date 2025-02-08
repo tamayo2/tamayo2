@@ -21,7 +21,6 @@
 </div>
 
 ### 🎴 About Me: 
-🍷 I'm currently working on **Esinergia**
 <br>
 💻 I specialize in: **C#, NEXTJS, .NET, ANGULAR, PHP, SYMFONY, LARAVEL, NODEJS, DRUPAL, REACT NATIVE, TWIG**
 
