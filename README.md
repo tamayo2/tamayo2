@@ -22,7 +22,7 @@
 
 ### 🎴 About Me: 
 <br>
-💻 I specialize in: **C#, NEXTJS, .NET, ANGULAR, PHP, SYMFONY, LARAVEL, NODEJS, DRUPAL, REACT NATIVE, TWIG**
+💻 I specialize in: **C#, NEXTJS, REACT.JS, .NET, ANGULAR.JS, PHP, SYMFONY, LARAVEL, NODEJS, DRUPAL, REACT NATIVE, TWIG**
 
 
 <div align="center">
